@@ -1,0 +1,52 @@
+body{
+    text-align: left;
+    background-color: black;
+    font-family: Lato, serif;
+    color: white;
+    font-size: 25px;
+    background-image: url("https://www.abercrombiekent.co.uk/-/media/abercrombieandkent/images/itineraries/destinations/north-america/usa/utah-and-arizona/classic-grand-canyon-and-south-west/main-classic-grand-canyon-grand-canyon.jpg?la=en&hash=C3AB5D82E80BD6F38CB09D441FEAB16B7FAB3610");
+}
+
+head{
+    font-size: 30px;
+    font-family: Lato, serif;
+    text-align: centre;
+    color: white;
+}
+
+h1{
+    margin-top: 0;
+    margin-bottom: 5;
+    padding: 60px;
+    background: powderblue;
+    opacity: 80%;
+    font-size: 120px;
+    text-align: left;
+    color: white;
+    font-family: Lato, serif;
+}
+
+h2{
+    position: relative;
+    bottom: 200px
+}
+
+h3{
+    position: relative;
+    bottom: 200px
+}
+
+ul{
+    position: relative;
+    bottom: 200px
+}
+
+img {
+    height: 170px;
+    width: 300px;
+    position: relative;
+    top: 169%;
+    left: 83%;
+    -ms-transform: translate(-45%, -169%);
+    transform: translate(-45%, -169%);
+}
